@@ -74,15 +74,3 @@ Password-Generator/
 * Generate passphrases (word-based passwords)
 * Include strength suggestions
 
----
-
-## 🧑‍💻 Author
-
-**Preeti Sharma**
-💼 [GitHub Profile](https://github.com/preetisharma383)
-
----
-
-Would you like me to make this **more aesthetic and formatted with emojis and shields badges** (like a GitHub-pro style README)? I can give you that upgraded version too.
-
-
